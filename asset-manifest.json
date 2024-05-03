@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.797a300f.css",
+    "main.js": "/static/js/main.93ea1108.js",
+    "static/media/Me3.png": "/static/media/Me3.02568016ad6503519aa5.png",
+    "static/media/pexels-eva-bronzini-7605490.jpg": "/static/media/pexels-eva-bronzini-7605490.8b7c73e0d291ba242504.jpg",
+    "static/media/ME.jpg": "/static/media/ME.cf5e1f00fdb901ed2b83.jpg",
+    "static/media/GMH.pdf": "/static/media/GMH.b52b529d8c6e063a02c5.pdf",
+    "index.html": "/index.html",
+    "main.797a300f.css.map": "/static/css/main.797a300f.css.map",
+    "main.93ea1108.js.map": "/static/js/main.93ea1108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.797a300f.css",
+    "static/js/main.93ea1108.js"
+  ]
+}
