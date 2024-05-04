@@ -1,6 +1,6 @@
 import React from "react"
 import './about.css'
-import ME from '../../assets/images/Me3.png'
+import ME from '../../assets/images/Me4.jpg';
 import { FaLaptopCode } from "react-icons/fa6";
 import { IoSchool } from "react-icons/io5";
 import { FaGithub } from "react-icons/fa";
