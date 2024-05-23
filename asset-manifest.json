@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/reactPortafolio/static/css/main.96a6cbc5.css",
-    "main.js": "/reactPortafolio/static/js/main.041ff04f.js",
-    "static/media/pexels-eva-bronzini-7605490.jpg": "/reactPortafolio/static/media/pexels-eva-bronzini-7605490.8b7c73e0d291ba242504.jpg",
+    "main.css": "/reactPortafolio/static/css/main.ded95ebe.css",
+    "main.js": "/reactPortafolio/static/js/main.ce45400d.js",
     "static/media/Me7.jpg": "/reactPortafolio/static/media/Me7.1b796868914b6834a87f.jpg",
     "static/media/Me4.jpg": "/reactPortafolio/static/media/Me4.9a92fd73cafd7007adb6.jpg",
-    "static/media/GMH.pdf": "/reactPortafolio/static/media/GMH.b52b529d8c6e063a02c5.pdf",
+    "static/media/GMH.pdf": "/reactPortafolio/static/media/GMH.2f2fa6f47f652ac1f355.pdf",
     "index.html": "/reactPortafolio/index.html",
-    "main.96a6cbc5.css.map": "/reactPortafolio/static/css/main.96a6cbc5.css.map",
-    "main.041ff04f.js.map": "/reactPortafolio/static/js/main.041ff04f.js.map"
+    "main.ded95ebe.css.map": "/reactPortafolio/static/css/main.ded95ebe.css.map",
+    "main.ce45400d.js.map": "/reactPortafolio/static/js/main.ce45400d.js.map"
   },
   "entrypoints": [
-    "static/css/main.96a6cbc5.css",
-    "static/js/main.041ff04f.js"
+    "static/css/main.ded95ebe.css",
+    "static/js/main.ce45400d.js"
   ]
 }
